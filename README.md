@@ -165,11 +165,11 @@ const isaac = {
 
 | Skill Category | Technologies | Level |
 |----------------|-------------|-------|
-| **Backend** | C#, .NET Core, ASP.NET, Entity Framework | ██████████ 95% |
-| **Frontend** | React, TypeScript, Next.js, Tailwind CSS | ██████████ 90% |
-| **Database** | SQL Server, PostgreSQL, MongoDB, Redis | █████████░ 85% |
-| **Cloud** | Azure, Docker, Kubernetes, Microservices | ████████░░ 80% |
-| **DevOps** | CI/CD, GitHub Actions, Docker, Monitoring | ████████░░ 75% |
+| **Backend** | C#, .NET Core, ASP.NET, Entity Framework | ███░░░░░░ 30% |
+| **Frontend** | React, TypeScript, Next.js, Tailwind CSS | ███░░░░░░ 30% |
+| **Database** | SQL Server | ███░░░░░░ 30% |
+| **Cloud** |  | ░░░░░░░░░  0% |
+| **DevOps** |  | ░░░░░░░░░  0% |
 
 ---
 
