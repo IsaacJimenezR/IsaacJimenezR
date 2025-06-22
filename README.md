@@ -23,7 +23,11 @@
   </a>
 </div>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=isaac&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ffff&bar_color_cover=false" />
+<div align="right">
+  <a href="https://open.spotify.com/user/bufaloftt">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bufaloftt&count=3" alt="Spotify recently played" width="300" />
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
