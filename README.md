@@ -1,9 +1,10 @@
 <div align="center">
 
-<h1 align="center"><b>Hi ,🚀 I'm iSAAC  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>🚀Hi , I'm iSAAC  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=FULL+STACK+DEVELOPER;C%23+%7C+.NET+ARCHITECT;REACT+SPECIALIST;BUILDING+THE+FUTURE" alt="Typing Animation" />
 
+<!-- Mario -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" />
 
 </div>
@@ -22,14 +23,14 @@ namespace Isaac.Developer
     public class Profile : IFullStackDeveloper
     {
         public string Name => "Isaac";
-        public string[] Superpowers => { "C#", ".NET", "React", "Problem Solving" };
-        public string Mission => "Transforming coffee ☕ into clean code";
+        public string[] Superpowers => { "C#", ".NET", "React", "JavaScript" "Problem Solving" };
+        public string Mission => "Transforming stress 🤯 into clean code"; // "Transformando el estrés 🤯 en código limpio"
         public bool IsAlwaysShipping => true;
         
         public async Task<string> GetVision()
         {
             return await Task.FromResult(
-                "Building scalable solutions that make a difference 🌟"
+                ""I build scalable solutions that make a difference...🌟 or at least I try" 🤷‍♂️" // "Construyo soluciones escalables que marcan la diferencia...🌟 o al menos lo intento" 🤷‍♂️
             );
         }
     }
