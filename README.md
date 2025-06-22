@@ -1,10 +1,11 @@
 <div align="center">
 
-<h1 align="center"><b>🚀Hi , I'm iSAAC  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>🚀Hi , I'm ISAAC  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=FULL+STACK+DEVELOPER;C%23+%7C+.NET+ARCHITECT;REACT+SPECIALIST;BUILDING+THE+FUTURE" alt="Typing Animation" />
+<!-- Gif de texto creado con  readme-typing-svg.herokuapp.com -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=%22C%23%22%2C+%22.NET%22%2C+%22React%22%2C+%22JavaScript%22" alt="Typing SVG" /></a>
 
-<!-- Mario -->
+<!-- Mario optendia del repo https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" />
 
 </div>
@@ -30,7 +31,7 @@ namespace Isaac.Developer
         public async Task<string> GetVision()
         {
             return await Task.FromResult(
-                ""I build scalable solutions that make a difference...🌟 or at least I try" 🤷‍♂️" // "Construyo soluciones escalables que marcan la diferencia...🌟 o al menos lo intento" 🤷‍♂️
+                ""I build scalable solutions that make a difference...🌟 or at least I try" 😅" // "Construyo soluciones escalables que marcan la diferencia...🌟 o al menos lo intento" 😅
             );
         }
     }
