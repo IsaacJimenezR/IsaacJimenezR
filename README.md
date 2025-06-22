@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Isaac | Full Stack Architect
+<h1 align="center"><b>Hi ,🚀 I'm iSAAC  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=FULL+STACK+DEVELOPER;C%23+%7C+.NET+ARCHITECT;REACT+SPECIALIST;BUILDING+THE+FUTURE" alt="Typing Animation" />
 
