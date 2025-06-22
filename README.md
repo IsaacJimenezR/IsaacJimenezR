@@ -207,20 +207,19 @@ const isaac = {
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+## 🌐 CONNECT & COLLABORATE
 
 <a href="https://linkedin.com/in/isaac-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-<a href="https://twitter.com/isaac_codes">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
 <a href="https://isaac.dev">
-<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" />
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" />
 </a>
 <a href="mailto:isaac@dev.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+<img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800" />
 
 </div>
 
@@ -282,52 +281,7 @@ const isaac = {
 
 
 
-<div align="center">
 
-# 🌟 ISAAC | Digital Architect
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&height=120&lines=FULL+STACK+DEVELOPER;C%23+%7C+.NET+MASTER;REACT+VIRTUOSO;CRAFTING+DIGITAL+EXPERIENCES" alt="Dynamic Title" />
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 NOW PLAYING
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=isaac&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ffff&bar_color_cover=false" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ TECH UNIVERSE
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
-
-### 🚀 BACKEND MASTERY
-<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,postgres,redis,mongodb,kafka" />
-
-### ⚛️ FRONTEND ARTISTRY  
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,sass,figma,threejs,vite" />
-
-### 🛠️ POWER TOOLS
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,jest,kubernetes,jenkins" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 📊 PERFORMANCE METRICS
 
@@ -504,26 +458,7 @@ Product catalog & cart system
 
 ---
 
-<div align="center">
 
-## 🌐 CONNECT & COLLABORATE
-
-<a href="https://linkedin.com/in/isaac-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-<a href="https://twitter.com/isaac_codes">
-<img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-</a>
-<a href="https://isaac.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" />
-</a>
-<a href="mailto:isaac@dev.com">
-<img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800" />
-
-</div>
 
 ---
 
@@ -583,6 +518,10 @@ Showcasing my growth journey
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
 </div>
+
+
+
+
 
 
 
