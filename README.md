@@ -43,16 +43,27 @@ namespace Isaac.Developer
 
 ## ⚡ TECH ARSENAL
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+<!--<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />--<
 
-### 🎯 BACKEND MASTERY
-<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,postgres,redis,mongodb" />
+### 🎯 BACKEND
+<!-- Incon obtendidos de https://profile-readme-generator.com/ --->
+<!--<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,postgres,redis,mongodb" />-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="60" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
+</div>
 
-### ⚛️ FRONTEND WIZARDRY  
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,sass,figma" />
+### ⚛️ FRONTEND 
+<!-- Iconso obtendios de https://github.com/tandpfun/skill-icons#readme o skillicons.dev -->
+<img src="https://skillicons.dev/icons?i=react,js,nextjs,tailwind,redux,express,next" />
 
-### 🛠️ DEVELOPER TOOLS
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,jest" />
+### 🛠️ DEVELOPMENT TOOL
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman" />
 
 </div>
 
