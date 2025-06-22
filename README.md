@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><b>🚀Hi , I'm ISAAC  </b><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" /></h1>
+<h1 align="center"><b>🚀Hi , I'm ISAAC  </b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 
 
 <!-- Gif de texto creado con  readme-typing-svg.herokuapp.com -->
