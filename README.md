@@ -23,6 +23,14 @@
   </a>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+  <div align="center">
+    
+  ### 🔥 *""Use AI as an ally, but keep your mind sharp. Innovation comes from human creativity, not from dependency.""*
+    
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+    
+  </div>
 </div>
 
 
@@ -257,15 +265,7 @@ const isaac = {
 
 ---
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=isaac&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
-
-### 🔥 *"Code is like humor. When you have to explain it, it's bad."*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-
-</div>
 
 ---
 
