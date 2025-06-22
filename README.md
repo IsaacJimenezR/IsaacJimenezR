@@ -60,7 +60,7 @@ namespace Isaac.Developer
 
 ### ⚛️ FRONTEND 
 <!-- Iconso obtendios de https://github.com/tandpfun/skill-icons#readme o skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=react,js,nextjs,tailwind,redux,express,next" />
+<img src="https://skillicons.dev/icons?i=react,js,nextjs,tailwind,materialui,redux,nextjs,express" />
 
 ### 🛠️ DEVELOPMENT TOOL
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman" />
