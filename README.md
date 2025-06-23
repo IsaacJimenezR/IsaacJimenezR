@@ -46,6 +46,38 @@
 </div>
 
 
+
+
+
+<!-- ESTE ES CURRENTLY VIBING TO PERO EN TABLA -->
+<!-- <table border="0" cellpadding="0" cellspacing="0" align="center" style="width:100%; background-color:transparent;">
+  <tbody>
+    <tr>
+      <td valign="top" align="center" style="padding-right: 10px; width: 50%;">
+        Columna Izquierda: GIF Doctor
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXY3anR1MTR1MXV6YWdibzQ4aXd4M21ydWRidTNiMnI1ZDg4NzF0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcGcSlMfmFgSna8/giphy.gif" 
+             style="max-width:400px; width: 100%; height: auto; max-height: 350px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
+             alt="Doctor Psicodélico GIF" />
+      </td>
+      <td valign="top" align="center" style="padding-left: 10px; width: 50%;">
+        Columna Derecha: Spotify + Pac-Man
+        Playlist de Spotify
+        <a href="https://open.spotify.com/user/bufaloftt" style="text-decoration: none;">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=bufaloftt&count=5&unique=false" 
+               style="max-width:400px; width: 100%; height: auto; max-height: 350px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
+               alt="Spotify recently played" />
+        </a>
+        <br>
+        GIF de Pac-Man
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+             style="max-width:400px; width: 100%; margin-top: 20px;" 
+             alt="Pack-man GIF" />
+      </td>
+    </tr>
+  </tbody>
+</table> -->
+
+
 ---
 
 <div align="center">
@@ -328,8 +360,8 @@ const isaac = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-contribution-graph-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
