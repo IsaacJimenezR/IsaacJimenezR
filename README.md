@@ -282,10 +282,10 @@ const isaac = {
 <a href="www.linkedin.com/in/isaac-jiménez-Dev">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="https://isaac.dev">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" />
 </a>
-<a href="mailto:isaac@dev.com">
+<a href="mailto:isaaacjimenez357@gmail.com">
 <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
 
@@ -310,5 +310,3 @@ const isaac = {
 
 </div>
 
-
---
