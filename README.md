@@ -1,11 +1,13 @@
+<!-- Repo con plantillas https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbi1qZDlaTkdxMHU4aEd3MTYwU3o5WmlPOVVpd3xBQ3Jtc0tsR3EwTmZrY01sLUFya1VrSlVSTkREQzB1Vms2aUYtZ2lDVk8zckxZUnlpRzB2SFhBS2NyT1JIV3U4MERKUW1TTWE3TWFhY1ZpV25lNXJ1ZldIQjZKRjk0YS0xTkxEZXFXdnpBSjZVdlFpYjRYWnZpdw&q=https%3A%2F%2Fgithub.com%2Fdurgeshsamariya%2Fawesome-github-profile-readme-templates%2Fblob%2Fmaster%2Ftemplates%2FMarikIshtar007.md&v=YRQzhUMwXD4 -->
 <div align="center">
+  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 <h1 align="center"><b>🚀Hi , I'm ISAAC  </b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 <!-- Gif de texto creado con  readme-typing-svg.herokuapp.com -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=%22C%23%22%2C+%22.NET%22%2C+%22React%22%2C+%22JavaScript%22" alt="Typing SVG" /></a>
 </div>
 
 <div align="left">
-  <h2>🔥 ABOUT ME</h2>
+  <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  ABOUT ME</h2>
   <!-- Mario optendia del repo https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="coding gif"/>
   <p>Software Development and Management Engineer, developer with experience in .NET technologies and full-stack development. Throughout my career I have implemented clean architecture, integrated multiple technologies (RESTful APIs, Entity Framework, SQL Server, backend services, clean architecture, React, Redux, reporting) and developed functional applications that have significantly strengthened my technical skills. I seek to continue developing in challenging projects where I can apply my technical knowledge and keep growing professionally.</p>
@@ -103,6 +105,7 @@ namespace Isaac.Developer
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac&layout=compact&theme=radical&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&border_radius=15" />
 
 <img src="https://streak-stats.demolab.com/?user=isaac&theme=radical&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+
 
 </div>
 
