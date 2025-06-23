@@ -17,27 +17,34 @@
 
 
 ## 🎵 CURRENTLY VIBING TO
-<br clear="both">
-<div align="center">
-  <a href="https://open.spotify.com/user/bufaloftt">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bufaloftt&count=5&unique=false" alt="Spotify recently played" />
-  </a>
+<!-- GIF DOCTOR PSICODELICO-->
+<img align="left" height="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXY3anR1MTR1MXV6YWdibzQ4aXd4M21ydWRidTNiMnI1ZDg4NzF0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcGcSlMfmFgSna8/giphy.gif"  />
+
+
+<!-- GIF OBTENIDO DE https://giphy.com/explore/images-->
+<!-- GIF DOCTOR DE LA PLAGA-->
+<!--
+<img align="left" height="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjVrMXhpNXgxaG9hYzJyejIzcHp1c2hnN3R0cGpsdWRla205cm1jMyZlcD02MV9naWZzX3NlYXJjaCZjdD1n/6QjSizRHbzA5lk3gYi/giphy.gif" />
+-->
+<!--Playlist Spotify--->
+<a href="https://open.spotify.com/user/bufaloftt">
+  <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=bufaloftt&count=5&unique=false" alt="Spotify recently played" />
+</a>
+<br clear="both" />
+<!-- image de pack-man-->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+<br clear="both" />
+<div align="center" style="margin-top: 30px;">
+  <img alt="Coding" width="80" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="vertical-align: middle; margin-right: 15px;" />
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-  <div align="center">
-    <p>
-      <img alt="Coding" width="100" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="vertical-align: middle; margin-right: 10px;" />
-      "Use AI as an ally, but keep your mind sharp. Innovation comes from human creativity, not from dependency."
-    </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-  </div>
+  <p style="font-style: italic; font-size: 16px; color: #888; margin: 15px 0; max-width: 600px;">
+    "Use AI as an ally, but keep your mind sharp. Innovation comes from human creativity, not from dependency."
+  </p>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
 
-
-
-
-
-</div>
 
 ---
 
