@@ -407,16 +407,15 @@ const isaac = {
 
 
 ---
+---
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
-
-
+## 🎮 PAC-MAN CONTRIBUTION
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-light.svg">
+  <img alt="Pac-Man eating github contributions" src="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman.svg">
 </picture>
 
 </div>
