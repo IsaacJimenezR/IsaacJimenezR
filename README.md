@@ -413,9 +413,9 @@ const isaac = {
 ## 🐍 CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-light.svg">
-  <img alt="Pac-Man eating github contributions" src="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
