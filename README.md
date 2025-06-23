@@ -1,36 +1,33 @@
 <div align="center">
-
 <h1 align="center"><b>🚀Hi , I'm ISAAC  </b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
-
-
 <!-- Gif de texto creado con  readme-typing-svg.herokuapp.com -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=%22C%23%22%2C+%22.NET%22%2C+%22React%22%2C+%22JavaScript%22" alt="Typing SVG" /></a>
-
-<!-- Mario optendia del repo https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" />
-
 </div>
 
-<div align="center">
+<div align="left">
+  <h2>🔥 ABOUT ME</h2>
+  <!-- Mario optendia del repo https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="coding gif"/>
+  <p>Software Development and Management Engineer, developer with experience in .NET technologies and full-stack development. Throughout my career I have implemented clean architecture, integrated multiple technologies (RESTful APIs, Entity Framework, SQL Server, backend services, clean architecture, React, Redux, reporting) and developed functional applications that have significantly strengthened my technical skills. I seek to continue developing in challenging projects where I can apply my technical knowledge and keep growing professionally.</p>
+  <p><strong>Outside of technology:</strong> 🎮 I love playing video games, 🎵 listening to music.</p>
+  <br clear="right"/>
+</div>
+
 
 ## 🎵 CURRENTLY VIBING TO
-
 <br clear="both">
-
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/user/bufaloftt">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=bufaloftt&count=5&unique=false" alt="Spotify recently played" />
   </a>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-
   <div align="center">
-
-  <img align="right" alt="Coding" width="100"  src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-  ### 🔥 *""Use AI as an ally, but keep your mind sharp. Innovation comes from human creativity, not from dependency.""*
-    
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-    
+    <p>
+      <img alt="Coding" width="100" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="vertical-align: middle; margin-right: 10px;" />
+      "Use AI as an ally, but keep your mind sharp. Innovation comes from human creativity, not from dependency."
+    </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
   </div>
 </div>
 
