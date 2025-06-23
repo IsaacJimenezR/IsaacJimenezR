@@ -216,17 +216,29 @@ const isaac = {
 <td width="50%">
 
 ### 🌟 Enterprise Management System
+<img src="https://via.placeholder.com/400x250/1a1a1a/00D4FF?text=Enterprise+Management+System" alt="Enterprise Management System" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
+
+<a href="https://github.com/IsaacJimenezR/enterprise-management-system" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
 **Stack:** C# • ASP.NET Core • React • PostgreSQL  
 **Features:** Real-time analytics, Role-based access, Microservices  
-**Impact:** 40% efficiency increase for 500+ users
+**Development:** 6 months development cycle, Clean Architecture implementation
 
 </td>
 <td width="50%">
 
 ### 🛒 E-Commerce Platform
+<img src="https://via.placeholder.com/400x250/1a1a1a/FF6B6B?text=E-Commerce+Platform" alt="E-Commerce Platform" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
+
+<a href="https://github.com/IsaacJimenezR/ecommerce-platform" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
 **Stack:** React • TypeScript • .NET API • Redis  
 **Features:** Payment integration, Admin dashboard, Mobile-first  
-**Impact:** Handles 10K+ concurrent users
+**Development:** Full-stack development, Responsive design implementation
 
 </td>
 </tr>
@@ -234,17 +246,29 @@ const isaac = {
 <td width="50%">
 
 ### 📊 Analytics Dashboard
+<img src="https://via.placeholder.com/400x250/1a1a1a/00FF88?text=Analytics+Dashboard" alt="Analytics Dashboard" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
+
+<a href="https://github.com/IsaacJimenezR/analytics-dashboard" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
 **Stack:** React • D3.js • .NET • MongoDB  
 **Features:** Real-time data visualization, Custom reports  
-**Impact:** Data-driven decisions for C-level executives
+**Development:** Data visualization focus, Interactive charts implementation
 
 </td>
 <td width="50%">
 
 ### 🔧 DevOps Automation
+<img src="https://via.placeholder.com/400x250/1a1a1a/FFD700?text=DevOps+Automation" alt="DevOps Automation" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
+
+<a href="https://github.com/IsaacJimenezR/devops-automation" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
 **Stack:** Docker • Kubernetes • Azure • GitHub Actions  
 **Features:** CI/CD pipelines, Auto-scaling, Monitoring  
-**Impact:** 80% reduction in deployment time
+**Development:** Infrastructure as Code, Automated deployment workflows
 
 </td>
 </tr>
