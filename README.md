@@ -410,7 +410,7 @@ const isaac = {
 ---
 <div align="center">
 
-## 🎮 PAC-MAN CONTRIBUTION
+## 🐍 CONTRIBUTION SNAKE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacJimenezR/IsaacJimenezR/output/pacman-dark.svg">
