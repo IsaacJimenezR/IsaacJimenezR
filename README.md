@@ -244,66 +244,121 @@ const isaac = {
 </div>
 
 <table align="center">
-<tr>
-<td width="50%">
-
-### 🌟 Enterprise Management System
-<img src="https://via.placeholder.com/400x250/1a1a1a/00D4FF?text=Enterprise+Management+System" alt="Enterprise Management System" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
-
-<a href="https://github.com/IsaacJimenezR/enterprise-management-system" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
-
-**Stack:** C# • ASP.NET Core • React • PostgreSQL  
-**Features:** Real-time analytics, Role-based access, Microservices  
-**Development:** 6 months development cycle, Clean Architecture implementation
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce Platform
-<img src="https://via.placeholder.com/400x250/1a1a1a/FF6B6B?text=E-Commerce+Platform" alt="E-Commerce Platform" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
-
-<a href="https://github.com/IsaacJimenezR/ecommerce-platform" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
-
-**Stack:** React • TypeScript • .NET API • Redis  
-**Features:** Payment integration, Admin dashboard, Mobile-first  
-**Development:** Full-stack development, Responsive design implementation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Analytics Dashboard
-<img src="https://via.placeholder.com/400x250/1a1a1a/00FF88?text=Analytics+Dashboard" alt="Analytics Dashboard" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
-
-<a href="https://github.com/IsaacJimenezR/analytics-dashboard" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
-
-**Stack:** React • D3.js • .NET • MongoDB  
-**Features:** Real-time data visualization, Custom reports  
-**Development:** Data visualization focus, Interactive charts implementation
-
-</td>
-<td width="50%">
-
-### 🔧 DevOps Automation
-<img src="https://via.placeholder.com/400x250/1a1a1a/FFD700?text=DevOps+Automation" alt="DevOps Automation" width="100%" style="border-radius: 10px; margin-bottom: 10px;" />
-
-<a href="https://github.com/IsaacJimenezR/devops-automation" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
-
-**Stack:** Docker • Kubernetes • Azure • GitHub Actions  
-**Features:** CI/CD pipelines, Auto-scaling, Monitoring  
-**Development:** Infrastructure as Code, Automated deployment workflows
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <h2 style="font-size: 18px;">🌟 Enterprise Management System</h1>
+      </div>
+      <img
+        src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+        alt="Enterprise Management System"
+        width="100%"
+        style="border-radius: 10px; margin-bottom: 10px"
+      />
+      <br>
+      <a
+        href="https://github.com/IsaacJimenezR/enterprise-management-system"
+        target="_blank"
+      >
+        <img
+          src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Repository"
+        />
+      </a>
+      <br>
+      <p>
+      **Stack:** C# • ASP.NET Core • React • PostgreSQL  
+        <br>
+      **Features:** Real-time analytics, Role-based access, Microservices  
+        <br>
+      **Development**: 6 months development cycle, Clean Architecture implementation
+      </p>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h2 style="font-size: 18px;">🛒 E-Commerce Platform</h1>
+      </div>
+      <img
+        src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+        alt="E-Commerce Platform"
+        width="100%"
+        style="border-radius: 10px; margin-bottom: 10px"
+      />
+      <br>
+      <a
+        href="https://github.com/IsaacJimenezR/ecommerce-platform"
+        target="_blank"
+      >
+        <img
+          src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Repository"
+        />
+      </a>
+      <p>
+    **Stack:** React • TypeScript • .NET API • Redis  
+    <br>
+    **Features:** Payment integration, Admin dashboard, Mobile-first  
+        <br>
+    **Development:** Full-stack development, Responsive design implementation
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <h2 style="font-size: 18px;">📊 Analytics Dashboard</h1>
+      </div>
+      <img
+        src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+        alt="Analytics Dashboard"
+        width="100%"
+        style="border-radius: 10px; margin-bottom: 10px"
+      />
+      <br>
+      <a
+        href="https://github.com/IsaacJimenezR/analytics-dashboard"
+        target="_blank"
+      >
+        <img
+          src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Repository"
+        />
+      </a>
+      <br>
+      **Stack:** React • D3.js • .NET • MongoDB  
+      **Features:** Real-time data visualization, Custom reports  
+      **Development:** Data visualization focus, Interactive charts implementation
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h2 style="font-size: 18px;">🔧 DevOps Automation</h1>
+      </div>
+      <img
+        src="https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+        alt="DevOps Automation"
+        width="100%"
+        style="border-radius: 10px; margin-bottom: 10px"
+      />
+      <br>
+      <a
+        href="https://github.com/IsaacJimenezR/devops-automation"
+        target="_blank"
+      >
+        <img
+          src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Repository"
+        />
+      </a>
+      <br>
+      <P >
+    Stack: Docker • Kubernetes • Azure • GitHub Actions  
+        <br>
+    Features: CI/CD pipelines, Auto-scaling, Monitoring  
+        <br>
+    Development: Infrastructure as Code, Automated deployment workflows
+      </P>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -344,8 +399,8 @@ const isaac = {
 <a href="mailto:isaaacjimenez357@gmail.com">
 <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800" />
+<br>
+ <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkxeGJpeTZmZHJmNXdjamVvdnZ3bjFocmVpaWExeWQyODJ2c2pwMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ivSCbBQjwLz7q/giphy.gif"  />
 
 </div>
 
