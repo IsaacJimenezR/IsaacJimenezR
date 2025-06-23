@@ -1,10 +1,15 @@
-# Archivo: .github/workflows/pacman.yml
-name: Generate Pacman Animation
+# Archivo: .github/workflows/snake.yml
+name: Generate Snake
 
 on:
+  # Se ejecuta cada 12 horas
   schedule:
-    - cron: "0 */6 * * *"  # Cada 6 horas
+    - cron: "0 */12 * * *"
+  
+  # Permite ejecutar manualmente
   workflow_dispatch:
+  
+  # Se ejecuta al hacer push a main
   push:
     branches:
       - main
@@ -16,19 +21,18 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Generate Pacman eating contributions
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: IsaacJimenezR
           outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark&animation_duration=1&animation_type=pacman
-            dist/pacman-light.svg?palette=github-light&animation_duration=1&animation_type=pacman
-          
-      - name: Push Pacman to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
