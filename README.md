@@ -109,104 +109,21 @@ namespace Isaac.Developer
 <div align="center">
 
 ## 📊 BATTLE STATS
-
-
 <!-- GitHub Stats Cards -->
-<div align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacJimenezR&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJimenezR&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&border_radius=15&hide_border=false&langs_count=8" />
-</div>
-
+</p>
 <br>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
+<!-- GitHub Streak Stats and Activity Graph -->
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacJimenezR&theme=tokyonight&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=15" />
-</div>
-
-<br>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacJimenezR&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true" />
-</div>
-
-<br>
-
-<!-- Profile Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsaacJimenezR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
-<br>
-
-<!-- Detailed Stats in Cards Format -->
-<div align="center">
-  
-  <!-- Stats Summary Cards -->
+</p>
+<p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaacJimenezR&theme=tokyonight" />
-  
-  <br><br>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsaacJimenezR&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaacJimenezR&theme=tokyonight" />
-  
-  <br><br>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaacJimenezR&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsaacJimenezR&theme=tokyonight&utcOffset=-6" />
-
-</div>
-
-<!-- Additional Metrics -->
-<div align="center">
-
-### 📈 DEVELOPMENT METRICS
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Total%20Repositories-15+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
-<br><sub><b>Public & Private</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Languages%20Used-8+-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/>
-<br><sub><b>Primary & Secondary</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Experience-1.5%20Years-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white"/>
-<br><sub><b>Professional Development</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Performance Indicators -->
-<div align="center">
-
-### ⚡ CODING PERFORMANCE
-
-```
-🔥 Most Active Hours: 2PM - 6PM (GMT-6)
-📅 Most Productive Day: Wednesday
-💻 Preferred Language: C# (Backend) | JavaScript (Frontend)
-🎯 Current Focus: Clean Architecture & React Optimization
-⚡ Coding Streak: Building consistent daily commits
-```
-
-</div>
-
-<!-- GitHub Metrics -->
-<div align="center">
-
-### 🏆 GITHUB ACHIEVEMENTS
-
-<img src="https://metrics.lecoq.io/IsaacJimenezR?template=classic&config.timezone=America%2FMexico_City&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.output=svg" />
-
-</div>
-
-</div>
+</p>
 
 ---
 
@@ -214,7 +131,7 @@ namespace Isaac.Developer
 
 ## 🏆 ACHIEVEMENT UNLOCKED
 
-<img src="https://github-profile-trophy.vercel.app/?username=isaac&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IsaacJimenezR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
