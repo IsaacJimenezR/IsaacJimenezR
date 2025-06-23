@@ -143,23 +143,63 @@ namespace Isaac.Developer
 
 </div>
 
-<div align="center">
+<div align="Justify">
 
 ```javascript
 const isaac = {
-    currentFocus: ["Microservices Architecture", "React Performance", "Cloud Solutions"],
-    learning: ["Kubernetes", "GraphQL", "Machine Learning"],
-    workingOn: "Next-gen SaaS Platform",
-    funFact: "I debug faster than I drink coffee ☕",
-    
-    dailyRoutine: [
-        "☕ Coffee.brew()",
-        "💻 Code.optimize()",
-        "🚀 Features.deploy()",
-        "🔄 Skills.upgrade()"
+    level: "Junior Developer 👨‍💻",
+    currentFocus: [
+        "React Fundamentals and Best Practices",
+        "C# Backend Development",
+        "Full-Stack Project Development"
+    ],
+
+    techStack: {
+        frontend: {
+            react: "Learning → Improving",
+            skills: ["Components", "Hooks", "State Management", "Props"],
+            practicing: ["Custom Hooks", "Context API", "React Router"]
+        },
+        backend: {
+            csharp: "Learning → Evolving",
+            skills: [".NET Core", "Web API", "Entity Framework"],
+            practicing: ["Controllers", "Models", "Clean Architecture"]
+        },
+        basics: ["HTML5", "CSS3", "JavaScript ES6+", "Git", "SQL"]
+    },
+
+    currentProjects: [
+        "Personal portfolio website",
+        "Developing my personal project, if it's secret",
+        "Do I need a job?",
     ],
     
-    codePhilosophy: "Clean code is not written by following a set of rules. You know you are working on clean code when each routine turns out to be pretty much what you expected."
+    dailyRoutine: [
+        "☕ Coffee.start()",
+        "📚 Tutorial.watch()",
+        "💻 Code.practice()",
+        "🐛 Bugs.fix() // Lots of them!",
+        "📝 Progress.document()",
+        "🤔 Claude.search()"
+    ],
+
+    honestMoments: [
+        "Sometimes I still google 'how to center a div'",
+        "If I built the backend and moved to the frontend, I forgot what I did on the backend",
+        "I'm improving my endpoints and error message handling, if it's backend",
+        "My code works, but I don't always know why what"
+    ],
+
+    motion: "Every senior developer was once a beginner. Every expert was a disaster! I'm just getting started! 🚀",
+
+    // Simple method to track progress
+    getProgress() {
+        return {
+            react: "Beginner+ (4/10)",
+            csharp: "Beginner (4/10)",
+            confidence: "Growing every day! 📈"
+        };
+    }
 };
 ```
 
@@ -219,6 +259,8 @@ const isaac = {
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
 
 </div>
+<div align="center">
+
 
 | Skill Category | Technologies | Level |
 |----------------|-------------|-------|
@@ -229,7 +271,7 @@ const isaac = {
 | **DevOps** |  | ░░░░░░░░░  0% |
 
 ---
-
+</div>
 
 ---
 
